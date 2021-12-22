@@ -37,8 +37,10 @@ If you find our code useful for your work, please cocite the following paper
   title={Seeing under the cover with a 3D U-Net: point cloud-based weight estimation of covered patients},
   author={Bigalke, Alexander and Hansen, Lasse and Diesel, Jasper and Heinrich, Mattias P},
   journal={International journal of computer assisted radiology and surgery},
-  year={2021},
-  doi="10.1007/s11548-021-02476-0"
+  volume={16},
+  number={12},
+  pages={2079--2087},
+  year={2021}
 }
 ```
 
