@@ -31,7 +31,7 @@ Please first install the following dependencies
 2. For testing the trained baseline model, execute `python test_baseline.py --config-file ../configs/CONFIG_TO_SPECIFY.yaml --gpu GPU --val-split VAL_SPLIT --cover-condition COVER_COND --position POSITION`. Now, depending on the trained model, `COVER_COND` can / should be set to uncover as well.
 
 ## Citation
-If you find our code useful for your work, please cocite the following paper
+If you find our code useful for your work, please cite the following paper
 ```latex
 @article{bigalke2021seeing,
   title={Seeing under the cover with a 3D U-Net: point cloud-based weight estimation of covered patients},
